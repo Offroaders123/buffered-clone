@@ -2,21 +2,21 @@
   "compilerOptions": {
     "allowJs": true,
     "checkJs": true,
-    // "module": "NodeNext",
-    // "target": "ESNext",
+    "module": "NodeNext",
+    "target": "ESNext",
     "lib": [
       "DOM",
       "ESNext"
     ],
-    // "isolatedModules": true,
+    "isolatedModules": true,
     "noEmit": true,
-    // "strict": true,
-    // "noImplicitOverride": true,
+    "strict": true,
+    "noImplicitOverride": true,
     // "noPropertyAccessFromIndexSignature": true,
     // "noUncheckedIndexedAccess": true,
-    // "allowUnreachableCode": false,
-    // "noUnusedLocals": true,
-    // "allowUnusedLabels": false,
-    // "noUnusedParameters": true
+    "allowUnreachableCode": false,
+    "noUnusedLocals": true,
+    "allowUnusedLabels": false,
+    "noUnusedParameters": true
   }
 }
