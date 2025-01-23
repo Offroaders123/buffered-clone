@@ -1,5 +1,3 @@
-//@ts-check
-
 import { pushLength } from './length.js';
 
 /**

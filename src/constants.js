@@ -1,5 +1,3 @@
-//@ts-check
-
 /**
  * @param {string} c
  * @returns

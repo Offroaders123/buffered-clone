@@ -1,5 +1,3 @@
-//@ts-check
-
 const { BYTES_PER_ELEMENT } = Uint32Array;
 const ui32b = new ArrayBuffer(BYTES_PER_ELEMENT);
 const ui32a = new Uint32Array(ui32b);

@@ -1,5 +1,3 @@
-//@ts-check
-
 import {
   NULL,
   BOOLEAN,
